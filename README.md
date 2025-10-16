@@ -56,12 +56,23 @@ Depois de enviar esse código, o LED começou a piscar certinho, acendendo e apa
 
 Coloquei aqui as imagens e o vídeo mostrando o projeto funcionando:
 
-* `assets/printCodigo.png` → print do código na Arduino IDE
-* `assets/arduino_conectado.jpg` → Arduino ligado via USB
-* [vídeo curto mostrando o pisca-pisca](https://drive.google.com/file/d/19VkqwkrVP3mxRvWk_f66L1Qg0p5GGJa4/view?usp=sharing)
+### Montagem física
+<p align="center">
+  <img src="assets/arduino_conectado.png" alt="Arduino conectado" width="400">
+</p>
+
+### Código na IDE
+<p align="center">
+  <img src="assets/printCodigo.png" alt="Print do código" >
+</p>
+
+* [vídeo curto mostrando o pisca-pisca- CLIQUE AQUI](https://drive.google.com/file/d/19VkqwkrVP3mxRvWk_f66L1Qg0p5GGJa4/view?usp=sharing)
 
 ---
 
 ## Observações pessoais
 
 Achei bem tranquilo de entender depois que vi o vídeo, mas precisei testar umas 3 vezes até o LED realmente começar a piscar. No começo achei que estava com problema de conexão, mas era só o resistor que eu tinha oegado errado. Depois de ajustar, funcionou perfeito.
+
+# Blink LED Externo — Parte 2
+[Link Tinkercad](https://www.tinkercad.com/things/dcOAqZliLeQ/editel?returnTo=%2Fdashboard&sharecode=Iib0FkBeBTkhuiUKxx6FZUtjZpbqStR5Z_ikLOZ21EI)
